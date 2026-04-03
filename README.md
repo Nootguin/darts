@@ -1,3 +1,3 @@
 # Darts Game
 
-Very simple darts game.
+Simple barebones darts game.
